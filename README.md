@@ -4,6 +4,14 @@ React + ExpressJS with http2 protocol demo app
 
 # HTTP/2 Node.js Server Implementation with Express.js
 
+#Pre-requirements
+
+You need to create the files:
+1. server.crt
+2. server.csr
+3. server.key
+
+(Reference : https://webapplog.com/http2-node/ ) 
 
 #Steps to install and run the application
 1. npm install 
@@ -18,6 +26,8 @@ Click on advance button and click `Proceed to localhost (unsafe)`.
 
 Now this is what you should be seeing.
 <img />
+
+
 
 
 
