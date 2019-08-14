@@ -21,15 +21,12 @@ You need to create the files:
 
 this will open the browser in `https` mode with the screenshot like shown
 
-
-![https screen1](https://raw.githubusercontent.com/ravi-mone/http2-express-app/master/https.png){:height="700px" width="400px"}
+ <img src="https://raw.githubusercontent.com/ravi-mone/http2-express-app/master/https.png" width="200" height="200">
 
 Click on advance button and click `Proceed to localhost (unsafe)`.
 Now this is what you should be seeing.
-
-
-
-![https screen2](https://raw.githubusercontent.com/ravi-mone/http2-express-app/master/http2.png){:height="700px" width="400px"}
+ 
+<img src="https://raw.githubusercontent.com/ravi-mone/http2-express-app/master/http2.png" width="200" height="200">
 
 Can you see this "Hi, I am a Express API Response" , This is from the express API https://localhost:3000/express_backend
 
