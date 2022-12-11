@@ -10,7 +10,7 @@
   "author": "Azat Mardan",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.14.0",
+    "express": "^4.17.3",
     "http-proxy-middleware": "^0.19.1",
     "spdy": "^3.3.3"
   }
